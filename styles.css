@@ -1,0 +1,17 @@
+body{
+    background-color: #e0ebe8;
+    text-align: center;
+}
+.top-container{
+    position: relative;
+    top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    ;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
